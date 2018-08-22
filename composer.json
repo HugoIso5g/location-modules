@@ -1,0 +1,10 @@
+{
+    "name": "hugo/location-module",
+    "authors": [
+        {
+            "name": "hugo",
+            "email": "hugopessanha22@gmail.com"
+        }
+    ],
+    "require": {}
+}
